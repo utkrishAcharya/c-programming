@@ -9,6 +9,7 @@ int main(){
      int b;
     printf("Enter a Number B:");
     scanf("%d", &b );
+    
      int c;
     printf("Enter a Number C:");
     scanf("%d", , &c );
