@@ -13,6 +13,7 @@ int main(){
      int c;
     printf("Enter a Number C:");
     scanf("%d", , &c );
+    
 
     if (a>b){
         printf("a is Greater than B"); 
