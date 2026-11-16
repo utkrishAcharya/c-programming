@@ -20,6 +20,7 @@ int main(){
         printf("a is Greater than B"); 
         
     }else{
+
             printf("B is greater than or equal to A\n");
         }
     
