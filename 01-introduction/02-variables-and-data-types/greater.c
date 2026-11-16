@@ -16,6 +16,7 @@ int main(){
     
 
     if (a>b){
+        
         printf("a is Greater than B"); 
     }else{
             printf("B is greater than or equal to A\n");
