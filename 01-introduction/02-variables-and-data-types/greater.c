@@ -27,6 +27,7 @@ int main(){
     if (b>c){
         
         printf("B is Greater than C");
+        
     }else{
             printf("C is greater than or equal to B\n");
 
