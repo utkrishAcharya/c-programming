@@ -32,6 +32,7 @@ int main(){
             printf("C is greater than or equal to B\n");
 
         }
+    
     return 0;
 
 }
